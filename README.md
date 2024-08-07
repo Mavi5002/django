@@ -1,0 +1,2 @@
+# django
+ Estudos sobre django 
